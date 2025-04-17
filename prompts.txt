@@ -1,0 +1,15 @@
+1. Give me a React component to select a data source (ClickHouse or Flat File) with a dropdown.
+2. Provide CSS for a source selector component.
+3. Build a ClickHouse connection form in React with fields: Host, Port, Database, User, JWT Token.
+4. Add CSS to style the ClickHouse connection form cleanly and make input labels/text visible.
+5. How to ingest data from ClickHouse and export to a flat file using Node.js?
+6. How to ingest data from CSV (flat file) and import it into a ClickHouse table using Node.js?
+7. How to connect to ClickHouse using JWT token in Node.js?
+8. Give me a basic backend in Node.js with endpoints to fetch ClickHouse tables and ingest data.
+9. Help me preview first 100 records from ClickHouse table.
+10. How to display columns as checkboxes in React from fetched schema?
+11. Write a README.md file that includes setup instructions for both backend and frontend.
+12. How to commit project to GitHub?
+13. Generate a PDF combining README, screenshots, and code explanation for submission.
+14. Format an email for assignment submission with GitHub link and demo video.
+15. Make a progress bar and status area in React to show data ingestion progress.
